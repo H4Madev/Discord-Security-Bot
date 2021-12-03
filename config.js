@@ -1,12 +1,12 @@
 const config = {
 
     // Client Settings
-    prefix: "s!",
-    token: "your-token",
+    prefix: "!",
+    token: "your_token OTE2MjMzNTQwMTU5NTUzNjA2.YanK-g.t8jo8dt5EvzccHoPdjr86Ij828s",
     date_format: "MM-DD-YYYY HH:mm A",
     copyright: "© 2021 Your Name",
     colorhex: "#eb3734",
-    voicechanneltojoin: "some-id",
+    voicechanneltojoin: "some_id 911281748191608912",
     port: "8080",
     debugmode: true,
     autoImportSQL: true, // It is recommended to turn this off after your first time boot to avoid errors
